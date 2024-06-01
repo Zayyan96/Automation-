@@ -1,6 +1,4 @@
-# Automation
-
-# MCQ Bubble Sheet Grader
+# MCQ Automated Checking 
 
 This project is a Python script for grading multiple-choice question (MCQ) bubble sheets using OpenCV. The script processes an input image of a bubble sheet, detects the filled-in answers, compares them to an answer key, and calculates the score.
 
